@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning some of the backend technologies like Laravel framework of PHP.
 - ✒️ My skills:
 <br>
-=================================================
-<br>
-Javascript, jQuery, HTML, CSS, Laravel, VueJS
-<br>
-=================================================
+-- <b>HTML</b>
+-- <b>CSS</b>
+-- <b>JavaScript</b>
+-- <b>VueJS</b>
+-- <b>Laravel</b>
